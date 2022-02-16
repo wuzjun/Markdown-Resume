@@ -1,62 +1,84 @@
  <center>
-     <h1>XXX</h1>
+     <h1>吴焯钧</h1>
      <div>
          <span>
              <img src="assets/phone-solid.svg" width="18px">
-             180XXXXXXXX
+             13690139909
          </span>
          ·
          <span>
              <img src="assets/envelope-solid.svg" width="18px">
-             zhengyc101@163.com
+             w1159904119@gmail.com
          </span>
          ·
          <span>
              <img src="assets/github-brands.svg" width="18px">
-             <a href="https://github.com/CyC2018">CyC2018</a>
+             <a href="https://github.com/wuzjun">wuzjun</a>
          </span>
          ·
          <span>
              <img src="assets/rss-solid.svg" width="18px">
-             <a href="#">My Blog</a>
+             <a href="https://lapzjfit.site">Miraggio's Blog</a>
          </span>
      </div>
  </center>
 
- ## <img src="assets/info-circle-solid.svg" width="30px"> 个人信息 
+## 个人信息 
 
- - 男，1994 年出生
- - 求职意向：Java 研发工程师
- - 工作经验：0 年（校招可不填）
- - 期望薪资：0k（校招可不填）
+&emsp;&emsp;吴焯钧/男/1999&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;本科/华南理工大学广州学院机器人工程专业
 
-## <img src="assets/graduation-cap-solid.svg" width="30px"> 教育经历
+&emsp;&emsp;GPA：3.31/4.0&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;求职意向：嵌入式工程师
 
-- 硕士，XXXX大学，计算机科学与技术专业，2016.9~2019.7
-- 学士，XXXX大学，软件工程专业，2012.9~2016.7
-- 绩点：***，年级前 100%
-- 通过了 CET4/6 英语等级考试
+## 比赛实习经历
 
-## <img src="assets/briefcase-solid.svg" width="30px"> 工作经历
+&emsp;&emsp;广州市极臻智能科技有限公司&emsp;&emsp;&emsp;&emsp;至今 ~ 2021.11&emsp;&ensp;电控部-电控助理工程师
 
-- **XXXX 公司，XXXX 部门，XXXX 工程师，2010.1~2010.9**
+&emsp;&emsp;第二十届 RoboMaster 机甲大师赛&ensp;&ensp;&ensp;&ensp;2021.9 ~ 2020.9&emsp;电控组组长和步兵机器人电控负责人。
 
-   负责 XXX
+&emsp;&emsp;第十九届 RoboMaster 机甲大师赛&ensp;&ensp;&ensp;&ensp;2020.9 ~ 2019.9&emsp;哨兵机器人电控负责人。
 
-## <img src="assets/project-diagram-solid.svg" width="30px"> 项目经历
+## 专业技能
 
-- **XXXX 项目**
+- 熟悉使用 C（熟悉使用 C 钩子函数等指针应用等），了解 C++
+- 熟悉 STM32 各种外设配置和使用（USART，TIM等），熟悉使用 cubeMX 配置 HAL 编程，熟悉使用 FreeRTOS（任务，队列）
+- 掌握 Linux 操作系统（进程，Makefile编译等）
+- 熟悉使用 webots 运动模型仿真
+- 熟悉使用Git、keil 5 和 vscode工具
 
-  *使用到的技术*
+## 项目经历
 
-  使用一两句话描述项目的主要功能，然后介绍自己在项目中的角色，解决了什么问题，使用什么方式解决，比别人的方法相比有什么优势（尽量用数据来说明）。
+一、 比赛 - 哨兵机器人 - 独立开发（电控）&emsp;&emsp;&emsp;&emsp;2019.9 ~ 2020.9
 
-## <img src="assets/tools-solid.svg" width="30px"> 技能清单
+- 作为 RoboMaster 赛事中哨兵机器人。
 
-- ★★★ Java
-- ★★☆ C++、Python
-- ★★★ MySQL
-- ★★★ Redis
-- ★★☆ Spring
-- ★☆☆ RabbitMQ、ZooKeeper
-- ★★☆ JavaScript
+- 技术上：①[HAL 库](https://lapzjfit.site/post/cubeMX%2FcubeMX%E5%BA%8F%E7%AB%A0)快速开发外设、②[运动算法仿真](https://github.com/wuzjun/2020RM_Sentry)、③使用 [DSP 库](https://lapzjfit.site/post/cubeMX%2FcubeMX-DSP%2FDSP)、④FreeRTOS 实现任务管理
+
+- ①解决了底层代码移植出错等问题，提高开发效率、②提前验证电控逻辑和算法，减少“脑补”出错、③提高自动追击算法中数学函数运行效率、④避免裸机运行
+
+二、 比赛 - 步兵机器人 - 独立开发（电控）&emsp;&emsp;&emsp;&emsp;2020.9 ~ 2021.9
+
+- 作为 RoboMaster 赛事中步兵机器人。
+
+- 技术上：①[HAL 库](https://lapzjfit.site/post/cubeMX%2FcubeMX%E5%BA%8F%E7%AB%A0)快速开发外设、②[串级和动态 PID 算法](https://lapzjfit.site/post/Algorithm%2FAll_PID%2FPID)、③[PVD断电保存](https://lapzjfit.site/post/cubeMX%2FcubeMX-PWR)、④使用 [DSP 库](https://lapzjfit.site/post/cubeMX%2FcubeMX-DSP%2FDSP)、⑤FreeRTOS
+
+- ①提高开发效率、②串级 PID 提高云台精准度；动态 PID 提高底盘跟随响应，而且建立一套系统的调参方法，大大减少调参消耗时间、③各种校准数据随断电后会自动保存、④自瞄预测算法需要矩阵运算
+
+- [开源步兵代码地址](https://github.com/wuzjun/2021RM_Infantry)
+
+## 奖项与专利
+
+- 竞赛：
+    - 2020 年 8 月份荣获 RoboMaster 机甲大师线上赛全国二等奖。
+    - 2021 年 4 月份荣获 RoboMaster 高校联盟赛步兵机器人省赛二等奖。
+    - 2021 年 8 月份荣获 RoboMaster 步兵竞速与智能射击单项赛全国一等奖 。
+    - 2021 年 8 月份荣获 RoboMaster 机甲大师超级对抗赛全国二等奖。
+- 专利：
+
+    - 名称：一种监控防御装置&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;公开号：215232051U
+    - 名称：一种轨道移动装置的调整方法&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;公开号：112494924A
+- 校内奖项：
+    - 2018-2021 连续三个学年校三好学生，荣获三等奖学金&emsp;&emsp;证书：二级 C 语言程序设计
+
+## 致谢
+
+感谢您花时间阅读我的简历，期待能有机会和您共事。
