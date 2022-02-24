@@ -31,7 +31,7 @@
 
 ## 比赛实习经历
 
-&emsp;&emsp;广州市极臻智能科技有限公司&emsp;&emsp;&emsp;&emsp;至今 ~ 2021.11&emsp;&ensp;电控部-电控助理工程师
+&emsp;&emsp;广州市极臻智能科技有限公司&emsp;&emsp;&emsp;&emsp;2022.2 ~ 2021.10&ensp;&ensp;电控部-电控助理工程师
 
 &emsp;&emsp;第二十届 RoboMaster 机甲大师赛&ensp;&ensp;&ensp;&ensp;2021.9 ~ 2020.9&emsp;电控组组长和步兵机器人电控负责人。
 
@@ -53,7 +53,7 @@
 
 - 技术上：①[HAL 库](https://lapzjfit.site/post/cubeMX%2FcubeMX%E5%BA%8F%E7%AB%A0)快速开发外设、②[运动算法仿真](https://github.com/wuzjun/2020RM_Sentry)、③使用 [DSP 库](https://lapzjfit.site/post/cubeMX%2FcubeMX-DSP%2FDSP)、④FreeRTOS 实现任务管理
 
-- ①解决了底层代码移植出错等问题，提高开发效率、②提前验证电控逻辑和算法，减少“脑补”出错、③提高自动追击算法中数学函数运行效率、④避免裸机运行
+- ①解决了底层代码移植出错等问题，提高开发效率、②提前验证电控逻辑和算法，减少“脑补”出错、③提高自动追击算法中数学函数运行效率
 
 二、 比赛 - 步兵机器人 - 独立开发（电控）&emsp;&emsp;&emsp;&emsp;2020.9 ~ 2021.9
 
