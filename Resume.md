@@ -18,7 +18,7 @@
          ·
          <span>
              <img src="assets/rss-solid.svg" width="18px">
-             <a href="https://lapzjfit.site">Miraggio's Blog</a>
+             <a href="https://lapzjfit.site">My Blog</a>
          </span>
      </div>
  </center>
@@ -49,19 +49,19 @@
 
 一、 比赛 - 哨兵机器人 - 独立开发（电控）&emsp;&emsp;&emsp;&emsp;2019.9 ~ 2020.9
 
-- 作为 RoboMaster 赛事中哨兵机器人。
+- 作为 RoboMaster 赛事中哨兵机器人：主要在轨道上自动索敌并移动规避伤害。
 
-- 技术上：①[HAL 库](https://lapzjfit.site/post/cubeMX%2FcubeMX%E5%BA%8F%E7%AB%A0)快速开发外设、②[运动算法仿真](https://github.com/wuzjun/2020RM_Sentry)、③使用 [DSP 库](https://lapzjfit.site/post/cubeMX%2FcubeMX-DSP%2FDSP)、④FreeRTOS 实现任务管理
+- **技术上：** ①[HAL 库](https://lapzjfit.site/post/cubeMX%2FcubeMX%E5%BA%8F%E7%AB%A0)快速开发外设、②[运动算法仿真](https://github.com/wuzjun/2020RM_Sentry)、③使用 [DSP 库](https://lapzjfit.site/post/cubeMX%2FcubeMX-DSP%2FDSP)、④FreeRTOS 实现任务管理
 
-- ①解决了底层代码移植出错等问题，提高开发效率、②提前验证电控逻辑和算法，减少“脑补”出错、③提高自动追击算法中数学函数运行效率
+- **实现效果：** ①解决了底层代码移植出错等问题，提高开发效率、②提前验证电控逻辑和算法，减少“脑补”出错、③提高自动追击算法中数学函数运行效率
 
 二、 比赛 - 步兵机器人 - 独立开发（电控）&emsp;&emsp;&emsp;&emsp;2020.9 ~ 2021.9
 
-- 作为 RoboMaster 赛事中步兵机器人。
+- 作为 RoboMaster 赛事中步兵机器人：主要在赛场上灵活游走打击。
 
-- 技术上：①[HAL 库](https://lapzjfit.site/post/cubeMX%2FcubeMX%E5%BA%8F%E7%AB%A0)快速开发外设、②[串级和动态 PID 算法](https://lapzjfit.site/post/Algorithm%2FAll_PID%2FPID)、③[PVD断电保存](https://lapzjfit.site/post/cubeMX%2FcubeMX-PWR)、④使用 [DSP 库](https://lapzjfit.site/post/cubeMX%2FcubeMX-DSP%2FDSP)、⑤FreeRTOS
+- **技术上：** ①[HAL 库](https://lapzjfit.site/post/cubeMX%2FcubeMX%E5%BA%8F%E7%AB%A0)快速开发外设、②[串级和动态 PID 算法](https://lapzjfit.site/post/Algorithm%2FAll_PID%2FPID)、③[PVD断电保存](https://lapzjfit.site/post/cubeMX%2FcubeMX-PWR)、④使用 [DSP 库](https://lapzjfit.site/post/cubeMX%2FcubeMX-DSP%2FDSP)、⑤FreeRTOS
 
-- ①提高开发效率、②串级 PID 提高云台精准度；动态 PID 提高底盘跟随响应，而且建立一套系统的调参方法，大大减少调参消耗时间、③各种校准数据随断电后会自动保存、④自瞄预测算法需要矩阵运算
+- **实现效果：** ①提高开发效率、②串级 PID 提高云台精准度；动态 PID 提高底盘跟随响应，而且建立一套系统的调参方法，大大减少调参消耗时间、③各种校准数据随断电后会自动保存、④自瞄预测算法需要矩阵运算
 
 - [开源步兵代码地址](https://github.com/wuzjun/2021RM_Infantry)
 
